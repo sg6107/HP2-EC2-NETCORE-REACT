@@ -43,10 +43,4 @@ npm run dev
 * **Cierre de sesión:** Opción para cerrar sesión de forma segura.
 * **Persistencia:** Uso de `localStorage` para mantener la sesión activa.
 
-`
-Si quieres, puedo agregarle **capturas de pantalla** y secciones de **Estructura del Proyecto** para que quede más completo.  
-
-¿Quieres que haga eso también?
-```
-
 

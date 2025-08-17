@@ -29,6 +29,7 @@ git clone https://github.com/sg6107/HP2-EC2-NETCORE-REACT.git
 ```bash
 cd "Idat Bank React/IdatBank"
 npm install
+npm install react-router-dom
 npm run dev
 ```
 
